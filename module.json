@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : true,
+    "name" : "Fixed UI overlay map",
+    "category" : "client",
+    "author" : "SaltyMonkey",
+    "options" : {
+        "guiName" : "Fixed UI overlay map",
+        "niceName" : "Fixed UI overlay map"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/SaltyMonkey/tera-online-fixed-overlay-map/main/"
+    ]
+}
